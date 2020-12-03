@@ -1,0 +1,16 @@
+张：
+1. exploration vs exploitation, 但IS文献里不确定有没有，除了recommendation system里
+2. bandwidth：只看推荐给自己的 vs 愿意自己去search
+
+陈：
+1. 关于filter bubble： 平台关注黏性 + corporate social responsibility (CSR)
+
+徐 & 张：
+1. responsible AI：取关就是打破filter bubble, 进而让人关注更多有责任感的东西 ——> 所以SCR与filter bubble不同，是落到另一个变量来measure
+2. 对创作者的影响：如果意识到被取关，对方更愿意看responsible, 是否改变策略去创作此类？（learning effect：也跟trending video type有关） ——> 只有一个Difference，没法做DID 
+   ——> ideally用抖音做control：但无数据 + 说不定有类似unfollow实验 ——> 如果我们能得出科技向善的结论，说不定可以跟快手提再上一个实验；不过可以先用历史数据写paper
+3. 2019年3月，到疫情前有半年时间，比较clean：当然，如果想measure长期，还需注意是否有其他event
+
+to do：
+1. 看是否有标签，然后自己measure CSR：留守儿童、艾滋病、healthcare、老年人、教育、公益、扶贫等，做一个model-free evidence；之后可以再看其他关注、打赏行为
+2. CSR文献可以迟一些看
